@@ -1,19 +1,18 @@
 ### Léo Mathurin
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
+I'm an IT student and entrepreneur passionate about building scalable infrastructure and innovative digital solutions. Currently pursuing my Master's in Business & Technology, I love creating applications that solve real problems. 
+I'm always exploring new technologies and working on side projects that push the boundaries of what's possible.
 
 [`🏠 leo-mathurin.com`](https://leo-mathurin.com)
 [`📫 leo.mathurin@epitech.eu`](mailto:leo.mathurin@epitech.eu)
 [`🏢 linkedin.com/in/leo-mathurin`](https://www.linkedin.com/in/leo-mathurin/)
 
-### 🌱 My latest projects
+### 🔭 I'm currently working on
 
-- [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
-- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
-- [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
-- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
-- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- **Family Activity Discovery App** - Building a comprehensive platform for parents to discover and organize activities for their children, featuring mobile app, professional dashboard, and multi-environment cloud infrastructure
+- **Stremlist** - IMDb/Stremio integration service serving 1,600+ users with Docker-based deployment and privacy-focused design
+- **Junior Conseil Taker** - Leading marketing initiatives at Epitech's student consulting firm, delivering custom IT solutions including web development, mobile apps, AI, and audits
+- **Sharing my entrepreneurial journey** - Writing about building scalable tech solutions and the realities of student entrepreneurship
 
 ### 📰 Recent Blog Posts
 
