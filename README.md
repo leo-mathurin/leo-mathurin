@@ -1,4 +1,4 @@
-### Léo Mathurin
+### Hey 👋
 
 I'm an IT student and entrepreneur passionate about building scalable infrastructure and innovative digital solutions. Currently pursuing my Master's in Business & Technology, I love creating applications that solve real problems. 
 I'm always exploring new technologies and working on side projects that push the boundaries of what's possible.
