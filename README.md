@@ -18,7 +18,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
-- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
-- [Hello World](https://maximousblk.me/posts/hello-world)
+- [How to Secure Your Digital Life: A Practical Guide](https://leo-mathurin.vercel.app/blog/secure-your-digital-life)
+- [Pi Network: How I Transformed a Simple Game Among Friends into Profitable Crypto](https://leo-mathurin.vercel.app/blog/pi-network)
+- [Running a Free Minecraft Server on Oracle Cloud](https://leo-mathurin.vercel.app/blog/oracle-vm-minecraft-server)
 <!-- BLOG-POST-LIST:END -->
