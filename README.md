@@ -5,7 +5,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 [`🏠 leo-mathurin.com`](https://leo-mathurin.com)
 [`📫 leo.mathurin@epitech.eu`](mailto:leo.mathurin@epitech.eu)
-[`🏢 @leo-mathurin`](https://www.linkedin.com/in/leo-mathurin/)
+[`🏢 linkedin.com/in/leo-mathurin`](https://www.linkedin.com/in/leo-mathurin/)
 
 ### 🌱 My latest projects
 
