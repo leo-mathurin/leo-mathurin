@@ -19,6 +19,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Secure Your Digital Life: A Practical Guide](https://leo-mathurin.vercel.app/blog/secure-your-digital-life)
-- [Pi Network: How I Transformed a Simple Game Among Friends into Profitable Crypto](https://leo-mathurin.vercel.app/blog/pi-network)
 - [Running a Free Minecraft Server on Oracle Cloud](https://leo-mathurin.vercel.app/blog/oracle-vm-minecraft-server)
+- [Building a Network-Wide Ad Blocker with Raspberry Pi](https://leo-mathurin.vercel.app/blog/remote-ad-blocker-dns-vpn)
 <!-- BLOG-POST-LIST:END -->
