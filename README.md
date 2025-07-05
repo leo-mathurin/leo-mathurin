@@ -10,8 +10,8 @@ I'm always exploring new technologies and working on side projects that push the
 ### 🔭 I'm currently working on
 
 - **Family Activity Discovery App** - Building a comprehensive platform for parents to discover and organize activities for their children, featuring mobile app, professional dashboard, and multi-environment cloud infrastructure
-- [`stremlist.com`](https://stremlist.com/) - IMDb/Stremio integration service serving 1,600+ users with Docker-based deployment and privacy-focused design
-- [`Junior Conseil Taker`](https://juniortaker.com/)  - Leading marketing initiatives at Epitech's student consulting firm, delivering custom IT solutions including web development, mobile apps, AI, and audits
+- [stremlist.com](https://stremlist.com/) - IMDb/Stremio integration service serving 1,600+ users with Docker-based deployment and privacy-focused design
+- [Junior Conseil Taker](https://juniortaker.com/)  - Leading marketing initiatives at Epitech's student consulting firm, delivering custom IT solutions including web development, mobile apps, AI, and audits
 - **Sharing my entrepreneurial journey** - Writing about building scalable tech solutions and the realities of student entrepreneurship
 
 ### 📰 Recent Blog Posts
