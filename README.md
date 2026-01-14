@@ -3,8 +3,8 @@
 I'm an IT student and entrepreneur passionate about building scalable infrastructure and innovative digital solutions. Currently pursuing my Master's in Business & Technology, I love creating applications that solve real problems. 
 I'm always exploring new technologies and working on side projects that push the boundaries of what's possible.
 
-[`🏠 leo-mathurin.com`](https://leo-mathurin.com)
-[`📫 leo.mathurin@epitech.eu`](mailto:leo.mathurin@epitech.eu)
+[`🏠 leomathurin.com`](https://leomathurin.com)
+[`📫 me@leomathurin.com`](mailto:me@leomathurin.com)
 [`🏢 linkedin.com/in/leo-mathurin`](https://www.linkedin.com/in/leo-mathurin/)
 
 ### 🔭 I'm currently working on
