@@ -10,7 +10,7 @@ I'm always exploring new technologies and working on side projects that push the
 ### 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My agentic setup, November 2026](https://leo-mathurin.vercel.app/blog/agentic-setup)
 - [Cleaning Untrusted Internet Images Programmatically (TypeScript)](https://leo-mathurin.vercel.app/blog/cleaning-untrusted-internet-images-programmatically-typescript)
 - [How to force yourself to do the things you really want to accomplish](https://leo-mathurin.vercel.app/blog/forcing-yourself-to-accomplish-things)
-- [Secure passwords, files, and messages without the hassle](https://leo-mathurin.vercel.app/blog/secure-your-digital-life)
 <!-- BLOG-POST-LIST:END -->
